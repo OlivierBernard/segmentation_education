@@ -1,0 +1,11 @@
+# --------- pytorch --------- #
+torch
+torchvision
+torchmetrics
+
+# --------- others --------- #
+pre-commit      # hooks for applying linters on commit
+matplotlib      # plotting
+SimpleITK       # read/write io for data
+einops          # useful tensor/array operations
+tqdm            # adding progress bars to for loops
